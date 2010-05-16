@@ -10,6 +10,7 @@ Source1:	http://www.spritely.net/usr/library/documents/sample-code/spritely-0.2-
 # Source1-md5:	096ea7501f24a302cda8f4c0c4d1b0b3
 URL:		http://www.spritely.net/
 BuildRequires:	rpmbuild(macros) > 1.268
+BuildRequires:	unzip
 Requires:	jquery >= 1.3
 # for graggable
 Suggests:	jquery-ui
